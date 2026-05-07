@@ -50,3 +50,7 @@ footer {
   line-height: 1;
   border-radius: 5px;
 }
+
+p {
+  text-align: center;
+}
